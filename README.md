@@ -1,2 +1,2 @@
 **Bienvenue sur les tutoriels Helios Launcher de GeekCorner**  
-Ça arrive bientôt.
+Partie 1: <a href="P1" target="_blank">Commencer à programmer le Helios Launcher</a>
