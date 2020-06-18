@@ -41,7 +41,7 @@ Pour ce premier tuto consacré au développement du Helios Launcher, nous allons
  Il sert à modifier le code source de notre launcher. Vous pouvez le télécharger gratuitement sur <a href="https://code.visualstudiocode.com" target="_blank">le site officiel</a>.  
 
 ## Télécharger notre fork  
- Nous avons créer notre fork, mais il faut le télécharger localement, donc nous allons utiliser GitHub Desktop.  
+ Nous avons crée notre fork, mais il faut le télécharger localement, donc nous allons utiliser GitHub Desktop.  
  Démarrez ce dernier, puis connectez-vous si ce n'est pas déjà fait. Ensuite, pressez le bouton `Clone a repository from the internet` puis séléctionnez votre fork.  
  Changez éventuellement l'emplacement de téléchargement. Puis pressez le bouton `Clone`  
  ![\[Bouton clone\]](assets/clone.jpg)  
