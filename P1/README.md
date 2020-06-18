@@ -34,7 +34,7 @@ Pour ce premier tuto consacré au développement du Helios Launcher, nous allons
  Nous allons devoir utiliser 3 programmes:  
  **Node.JS**  
  Ce logiciel sert à programmer en JavaScript. Il est au launcher ce qu'est le moteur à la voiture.  
- Pour le télécharger, rendez vous <a href="https://nodejs.org/download" target="_blank">hmmm ici</a> et téléchargez la dernière version LTS pour votre ordinateur.  
+ Pour le télécharger, rendez vous <a href="https://nodejs.org/fr/download" target="_blank">hmmm ici</a> et téléchargez la dernière version LTS pour votre ordinateur.  
  **GitHub Desktop**  
  Il servira à "pousser" les modifications sur GitHub. Rendez vous <a href="https://desktop.github.com" target="_blank">ici</a> pour le téléchargez. Vous devrez ensuite vous connecter sur GitHub via votre navigateur internet.  
  **Visual Studio Code**  
